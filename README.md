@@ -1,2 +1,3 @@
-# JavaScriptArithmetic
-前端算法
+# 算法，每日练习
+
+花点时间实践算法，每日练习。
